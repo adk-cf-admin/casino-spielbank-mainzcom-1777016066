@@ -1,0 +1,202 @@
+{
+    "globalSections": {
+        "styles": {
+            "bg": "#ffffff",
+            "lang-select-color": "#222829",
+            "bg-light": "#E31E29",
+            "welcome-bonus-bg": "#ffffff",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#f5f5f5",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#E31E29",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#E31E29",
+            "yellow": "#000000",
+            "yellow-button": "#E31E29",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#deeadf",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "providers-back": "#E31E29",
+            "faq-label": "#E31E29",
+            "bg-footer": "#E31E29",
+            "copyright": "#e7e7d5",
+            "starColor": "#ffea00",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "Inter",
+                "isCustom": false
+            }
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6757"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6758",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Spielbank Mainz"
+        },
+        "nav": {
+            "signUp": "Registrieren",
+            "playNow": "Jetzt spielen"
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6760",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Spielbank Mainz"
+        }
+    },
+    "pages": [
+        {
+            "id": "de-de-de-DE",
+            "path": "\/",
+            "name": "Немецкий",
+            "languageCode": "de",
+            "regionCode": "DE",
+            "isDefault": true,
+            "sections": {
+                "seo": {
+                    "name": "Spielbank Mainz",
+                    "title": "Spielbank Mainz Casino-Überblick",
+                    "description": "Entdecken Sie die Spielbank Mainz als reale Spielbank vor Ort mit klassischen Casinospielen, rund 180 Automaten und moderner Atmosphäre.",
+                    "canonical": "casino-spielbank-mainz.com",
+                    "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6761",
+                    "ogImageWidth": 1200,
+                    "ogImageHeight": 630,
+                    "twitterSite": "casino-spielbank-mainz.com",
+                    "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6762"
+                },
+                "hero": {
+                    "title": "Spielbank Mainz – Landbasiertes Casino im Herzen von Mainz",
+                    "textDesktop": "Exklusives Willkommensangebot von",
+                    "textMobile": "Exklusives Willkommensangebot von",
+                    "playGame": "Spiel starten",
+                    "claimBonus": "Bonus sichern",
+                    "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6763",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": -3,
+                    "imageXModifier": 0,
+                    "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6764",
+                    "mobileImageSizeModifier": -2,
+                    "mobileImageYModifier": 2,
+                    "mobileImageXModifier": 0
+                },
+                "topCasino": {
+                    "topCasinoButtonText": "Bonus sichern",
+                    "title": "Top-Casino",
+                    "allCasino": "Alle Casino",
+                    "welcomeBonusText": "Willkommensbonus"
+                },
+                "bonusDetails": {
+                    "title": "Bonusdetails",
+                    "getBonusButtonText": "Bonus erhalten",
+                    "maximumAmountText": "Maximalbetrag",
+                    "wagerText": "Umsatz",
+                    "bonusCodeText": "Bonuscode",
+                    "casino": "Kasino",
+                    "bonuses": "Boni",
+                    "rate": "",
+                    "freeSpins": "Frei Spins",
+                    "moreInfo": "Mehr Info",
+                    "get": "",
+                    "refresh": "Aktualisieren"
+                },
+                "advantages": {
+                    "title": "Vorteile",
+                    "advantagesBeforeText": "",
+                    "items": [
+                        "Zentrale Lage im Herzen von Mainz",
+                        "Rund 180 Automaten für unsere Gäste",
+                        "Klassische Spiele in moderner Atmosphäre",
+                        "Zwei große Multi-Roulette-Anlagen vor Ort",
+                        "Viele Jackpot-Anlagen im modernen Automatenbereich"
+                    ],
+                    "advantagesAfterText": "",
+                    "knowMore": "Mehr erfahren",
+                    "appTitle": "Spielbank Mainz App",
+                    "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6765",
+                    "imageSizeModifier": 0,
+                    "imageYModifier": 0,
+                    "imageXModifier": 0,
+                    "mobileAlt": "Spielbank Mainz App",
+                    "mobileGooglePlayImageTitle": "Spielbank Mainz App",
+                    "mobileIosImageTitle": "Spielbank Mainz App"
+                },
+                "games": {
+                    "playNowText": "Jetzt spielen",
+                    "title": "Beliebte Spiele",
+                    "allGames": "Alle Spiele"
+                },
+                "about": {
+                    "history": {
+                        "title": "Über das Casino",
+                        "description1": "",
+                        "items": [
+                            "Rund 180 Automaten stehen unseren Gästen zur Verfügung.",
+                            "Zwei große Multi-Roulette-Anlagen gehören zu unserem Angebot.",
+                            "Beim Roulette liegt die durchschnittliche Gewinnwahrscheinlichkeit je nach Chance zwischen 97,30 % und 98,65 %."
+                        ],
+                        "description2": "Die Geschichte unserer Spielbank ist eng mit der Landeshauptstadt Mainz verbunden. Bereits 1987 erhielt Mainz eine Glücksspielkonzession; die Spielbank Mainz wurde 2010 am Standort im Domflügel des Hilton Hotels eröffnet. Heute präsentieren wir unser Casino als etablierten Ort für klassisches Spiel und moderne Unterhaltung in Mainz.",
+                        "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/6766",
+                        "imageSizeModifier": 0,
+                        "imageYModifier": 0,
+                        "imageXModifier": 0,
+                        "imageAlt": "Spielbank Mainz",
+                        "description3": "Seit 2017 wird unser Standort im Rahmen der Spielbank Mainz GmbH & Co. KG geführt. Der Handelsregistereintrag nennt den 19.06.2017 als Eintragungsdatum, und geprüfte Brancheninformationen beschreiben Mainz, Trier und Bad Ems als Standorte unter dieser Betreiberstruktur.\n\nHeute liegt unsere Spielbank an der Rheinstraße 59 in Mainz. Im Herzen der Landeshauptstadt erleben unsere Gäste Roulette und Black Jack in moderner Atmosphäre, ergänzt durch ein umfangreiches Automatenangebot.\n\nUnser Casino verbindet klassische Spieltradition mit einem aktuellen Angebot vor Ort. Rund 180 Automaten, viele Jackpot-Anlagen und zwei große Multi-Roulette-Anlagen prägen den modernen Automatenbereich und machen den Besuch für unsere Gäste vielseitig und klar strukturiert."
+                    }
+                },
+                "custom": {
+                    "customHtml": {
+                        "title": "Mainzer Spielgefühl",
+                        "description": "<p>In unserem Casino im Herzen der Landeshauptstadt Mainz verbinden wir klassische Casino-Spiele mit moderner Atmosphäre und einem vielseitigen Automatenbereich. Bei uns erleben Gäste Roulette, Black Jack und rund 180 Spielautomaten in einem Haus, das auf Unterhaltung, Stil und persönliche Spielmomente ausgerichtet ist.<\/p> <br> <p>Unser Roulette gehört zu den großen Klassikern unseres Spielangebots. Bei uns entscheidet der Moment, in dem die Kugel fällt, über Spannung, Dynamik und echtes Casino-Flair am Tisch.<\/p> <br> <p>Beim Roulette eröffnet unser Croupier das Spiel mit der Aufforderung, die Einsätze zu platzieren. Gäste setzen auf Zahlen oder Chancen wie Rot, Schwarz, Gerade oder Ungerade und erleben danach die Ansage der Gewinnzahl direkt im Spielsaal.<\/p> <br> <p>Der Roulettekessel bietet bei uns 37 Felder mit den Zahlen 0 bis 36. Die Zahlen 1 bis 36 sind abwechselnd rot oder schwarz markiert, während die Zero auf grünem Feld steht.<\/p> <br> <p>Unser Black Jack bringt Kartenspannung in klarer und lebendiger Form an den Tisch. Gäste spielen gegen die Bank, vertreten durch den Dealer, und versuchen, 21 Punkte zu erreichen oder möglichst nah an diesen Wert heranzukommen.<\/p> <br> <p>Beim Black Jack zählen Asse 1 oder 11 Punkte, Bilder 10 Punkte und alle anderen Karten den aufgedruckten Wert. Diese einfache Struktur macht das Spiel bei uns zugänglich, spannend und zugleich taktisch reizvoll.<\/p> <br> <p>Unser Black-Jack-Tisch verfügt über sieben markierte Boxen. Dort können sitzende oder stehende Gäste ihre Einsätze platzieren und das Spiel in direkter Tischatmosphäre verfolgen.<\/p> <br> <p>Im modernen Automatenbereich bieten wir rund 180 Spielmöglichkeiten. Von Klassikern bis zu modernen Video-Slots finden Gäste bei uns eine Auswahl, die unterschiedliche Spielvorlieben anspricht.<\/p> <br> <p>Unsere Automaten lassen sich bereits mit kleinem Einsatz spielen. Alle Mindest- und Höchsteinsätze sind direkt an jedem Gerät ausgewiesen, sodass Gäste ihr Spiel bei uns übersichtlich und komfortabel gestalten können.<\/p> <br> <p>Zusätzliche Spannung bringen unsere vielen Jackpot-Anlagen. Die aktuelle Höhe des jeweiligen Jackpots ist an den Anzeigen über oder an den Geräten ablesbar.<\/p> <br> <p>Mit unseren zwei großen Multi-Roulette-Anlagen bieten wir eine moderne Ergänzung zum Live Roulette. Die Kugel wird mit Luftdruck in den abgeschlossenen Roulettekessel gebracht, während Ergebnisse über Bildschirm und Terminals angezeigt werden.<\/p> <br> <p>Die Bedienung der Multi-Roulette-Anlagen erfolgt über Touchscreen. Der Mindesteinsatz an der Multi-Roulette-Anlage liegt bei 50 Cent und macht diese Spielvariante bei uns besonders direkt und komfortabel.<\/p> <br> <p>Unser Ticket-in-Ticket-out-System sorgt im Automatenspiel für eine kundenfreundliche Abwicklung. Bei einer Auszahlung wird ein Ticket mit dem entsprechenden Betrag gedruckt, das an Geldwechselautomaten oder an der Kasse eingelöst oder an einem anderen Automaten weiterverwendet werden kann.<\/p> <br> <p>Roulette sorgt bei uns für ein besonders klassisches Casino-Erlebnis, weil jede Runde live am Tisch entsteht. Die Ansage des Croupiers, das Platzieren der Einsätze und der Lauf der Kugel schaffen eine Atmosphäre, die unmittelbar und elegant wirkt.<\/p> <br> <p>Black Jack ergänzt unser Tischspiel mit klaren Entscheidungen und direkter Spannung. Gäste erleben bei uns ein Kartenspiel, das leicht zugänglich ist und gleichzeitig durch jede gezogene Karte neue Dynamik bekommt.<\/p> <br> <p>Unsere Automatenvielfalt macht den Besuch flexibel planbar. Wer schnelle Spielmomente, moderne Video-Slots oder bekannte Klassiker bevorzugt, findet bei uns eine Auswahl, die unterschiedliche Stimmungen und Spielweisen aufgreift.<\/p> <br> <p>Die Jackpot-Anlagen bringen zusätzliche Aufmerksamkeit in den Automatenbereich. Durch die gut sichtbaren Anzeigen behalten Gäste die aktuellen Jackpot-Höhen im Blick und erleben das Spiel mit einem besonderen Extra an Spannung.<\/p> <br> <p>Mit Multi-Roulette, Ticket-in-Ticket-out und rund 180 Automaten verbinden wir moderne Bedienung mit komfortabler Orientierung. So entsteht bei uns ein Spielumfeld, das klassische Casino-Energie und zeitgemäße Technik zusammenführt.<\/p> <br> <div style=\"width:100%; max-width:100%; overflow:hidden;\"> <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n<tr>\n  <th style=\"width:38%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Bereich\n  <\/th>\n  <th style=\"width:62%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Bestätigte Details\n  <\/th>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Klassisches Spiel\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Roulette und Black Jack in moderner Atmosphäre\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Automatenbereich\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Rund 180 Spielautomaten, von Klassikern bis zu modernen Video-Slots\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Jackpot-Anlagen\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Viele Jackpot-Anlagen; aktuelle Jackpot-Höhen werden an Anzeigen über oder an den Geräten angezeigt\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Multi-Roulette\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Zwei große Multi-Roulette-Anlagen mit Touchscreen-Bedienung\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Multi-Roulette-Einsatz\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Mindesteinsatz an der Multi-Roulette-Anlage: 50 Cent\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Automaten-Service\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Ticket-in-Ticket-out-System; Tickets können an Geldwechselautomaten, an der Kasse oder an anderen Automaten genutzt werden\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Banknoten am Automaten\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Automaten akzeptieren Banknoten im Wert von 5, 10, 20, 50, 100 und 200 Euro sowie Tickets\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Roulette-Felder\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    37 Felder im Roulettekessel mit den Zahlen 0 bis 36\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Black-Jack-Tisch\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Sieben markierte Boxen für Einsätze; Spielziel ist 21 Punkte oder ein möglichst naher Wert darunter\n  <\/td>\n<\/tr>\n<\/table> <\/div> <br> <p>Nach der Tabelle bleibt unser Fokus auf der Verbindung aus Spielauswahl, moderner Technik und klassischer Casino-Spannung. Gäste können bei uns zwischen dem direkten Erlebnis am Tisch und dem komfortablen Automatenspiel wechseln.<\/p> <br> <p>Unsere Multi-Roulette-Anlagen ergänzen das Live-Spiel um eine schnelle, moderne Variante. Die Kombination aus Roulettekessel, Bildschirmanzeige und Touchscreen schafft ein Spielerlebnis, das übersichtlich und dynamisch bleibt.<\/p> <br> <p>Mit dem Ticket-in-Ticket-out-System gestalten wir das Automatenspiel besonders praktisch. Gäste können Auszahlungen als Ticket erhalten, dieses weiterverwenden oder bequem einlösen.<\/p> <br> <p>Die Mischung aus Roulette, Black Jack, rund 180 Automaten, Jackpot-Anlagen und moderner Atmosphäre macht unser Casino zu einem vielseitigen Ziel für Spielunterhaltung in Mainz.<\/p> <br> <p>Unser Spielangebot ist auf Abwechslung ausgerichtet: klassische Tischspannung, moderne Automaten und Multi-Roulette ergänzen sich bei uns zu einem runden Casino-Erlebnis. Dadurch können Gäste ihren Besuch je nach Stimmung und Spielinteresse gestalten.<\/p> <br> <p>Die klar ausgewiesenen Einsatzinformationen an den Automaten unterstützen eine einfache Orientierung. So bleibt der Spielablauf bei uns transparent, komfortabel und gut nachvollziehbar.<\/p> <br> <p>Beim Black Jack sorgt die direkte Spielsituation gegen die Bank für einen besonderen Reiz. Jede Entscheidung wird am Tisch sichtbar, und jede Runde bringt neue Spannung in die Atmosphäre unseres Hauses.<\/p> <br> <p>Roulette steht bei uns für den eleganten Kern des Casino-Spiels. Die Kombination aus Zahlen, Chancen und Live-Erlebnis macht dieses Angebot zu einem festen Höhepunkt in unserem klassischen Spielbereich.<\/p> <br> <p>Unser Casino verbindet bewährte Spieltradition mit zeitgemäßen Abläufen. So entsteht ein Besuch, der sowohl für Liebhaber klassischer Spiele als auch für Fans moderner Automatenunterhaltung attraktiv ist.<\/p>"
+                    }
+                },
+                "softwareProviders": {
+                    "title": "Softwareanbieter"
+                },
+                "custom_2": {
+                    "customHtml_2": {
+                        "title": "Service In Mainz",
+                        "description": "<p>Unser Casino liegt zentral in Mainz an der Rheinstraße 59 und verbindet Spiel, Service und angenehme Aufenthaltsbereiche in direkter Stadtnähe. Bei uns finden Gäste klare Öffnungszeiten, persönliche Kontaktmöglichkeiten und ein Umfeld, das auf einen gepflegten Casino-Besuch ausgerichtet ist.<\/p> <br> <p>Für das leibliche Wohl sorgen wir in unseren rauchfreien Barbereichen. Dort verbinden wir Getränke, Aufenthalt und Casino-Atmosphäre zu einem angenehmen Rahmen für Pausen, Gespräche und den weiteren Verlauf des Abends.<\/p> <br> <p>Gerne servieren wir Getränke direkt in den Spielbereichen. So bleibt das Erlebnis bei uns komfortabel, während Gäste die Atmosphäre unseres Hauses und die Nähe zum Spiel genießen.<\/p> <br> <p>Unser Standort im Herzen der Stadt macht den Besuch besonders praktisch. Die Adresse Rheinstraße 59 mit dem Hinweis Parkhaus Löhrstraße bietet Gästen eine klare Orientierung für die Anfahrt.<\/p> <br> <p>Unsere Öffnungszeiten sind täglich auf die verschiedenen Spielbereiche abgestimmt. Das Automatenspiel startet bei uns bereits um 11:00 Uhr, Roulette beginnt um 18:00 Uhr und Black Jack um 18:30 Uhr.<\/p> <br> <p>Für einen angenehmen Aufenthalt setzen wir auf klare Besucherinformationen. Vor Eintritt in die Spielsäle wird an unseren Rezeptionen ein in Deutschland gültiger Lichtbildausweis wie Personalausweis oder Reisepass vorgelegt.<\/p> <br> <p>Der Eintritt ist bei uns ab 18 Jahren möglich. Damit schaffen wir einen klar geregelten Rahmen für ein Casino-Erlebnis, das verantwortungsvoll und professionell organisiert ist.<\/p> <br> <p>Auch beim Erscheinungsbild setzen wir auf eine gepflegte und angemessene Atmosphäre. Wir schätzen den individuellen Stil unserer Gäste und verbinden ihn mit dem eleganten Charakter unseres Hauses.<\/p> <br> <p>Unsere Bildergalerie und der virtuelle Rundgang geben einen lebendigen Eindruck von unserem Casino. So können Gäste bereits vor dem Besuch die Atmosphäre und die Spielbereiche unseres Hauses kennenlernen.<\/p> <br> <p>Spielerschutz ist bei uns fest verankert. Wir stellen Informationen zur Selbstsperre, zur Fremdsperre, einen Selbsttest und Informationsmaterial zum verantwortungsvollen Spiel bereit.<\/p> <br> <p>Für persönliche Orientierung können sich Gäste an unseren Spielerschutz-Beauftragten wenden. Zusätzlich verweisen wir auf Beratungsstellen und Informationsangebote, damit verantwortungsbewusstes Spiel bei uns klar begleitet wird.<\/p> <br> <p>Unsere Kontaktmöglichkeiten machen den Austausch mit unserem Team einfach. Gäste können uns telefonisch erreichen, per E-Mail schreiben oder das Kontaktformular auf unserer Website nutzen.<\/p> <br> <p>Mit unserem Standort Mainz gehören wir zu den drei Spielbanken Mainz, Trier und Bad Ems. Diese Standorte bieten neue und moderne Spielangebote und verbinden regionale Casino-Unterhaltung in Rheinland-Pfalz.<\/p> <br> <p>Die zentrale Lage unseres Hauses macht den Casino-Besuch gut planbar. Gäste finden bei uns klare Adressangaben, direkte Kontaktwege und tägliche Öffnungszeiten für die wichtigsten Spielbereiche.<\/p> <br> <p>Unsere rauchfreien Barbereiche bieten eine angenehme Ergänzung zum Spiel. Sie schaffen Raum für Genuss, Austausch und kurze Pausen, ohne den besonderen Charakter des Casino-Abends zu verlieren.<\/p> <br> <p>Der Getränkeservice in den Spielbereichen unterstützt einen komfortablen Aufenthalt. So können Gäste die Atmosphäre unseres Casinos genießen und ihren Abend in einem stimmigen Rahmen fortsetzen.<\/p> <br> <p>Mit Bildergalerie und virtuellem Rundgang machen wir unser Haus bereits vor dem Besuch erlebbar. Gäste erhalten einen ersten Eindruck von Ambiente, Raumgefühl und Spielumgebung.<\/p> <br> <p>Unsere Besucherinformationen sind auf klare Orientierung ausgelegt. Von Zutritt und Ausweis über Kleidung bis zum Kontaktformular finden Gäste bei uns praktische Hinweise für einen gut vorbereiteten Casino-Besuch.<\/p> <br> <div style=\"width:100%; max-width:100%; overflow:hidden;\"> <table style=\"width:100%; max-width:100%; border-collapse:collapse; table-layout:fixed; font-family:Arial, sans-serif; font-size:clamp(9px, 2.2vw, 14px); color:#ffffff; background:transparent;\">\n<tr>\n  <th style=\"width:38%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Info\n  <\/th>\n  <th style=\"width:62%; border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); text-align:left; vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Bestätigte Details\n  <\/th>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Adresse\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Rheinstraße 59, 55116 Mainz; auf der Startseite mit Hinweis Parkhaus Löhrstraße\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Kontakt\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Tel.: 06131 9710-0; Fax: 06131 9710-129; E-Mail: mail@spielbank-mainz.de\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Öffnungszeiten\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Automatenspiel täglich 11:00–4:00 Uhr; Roulette täglich 18:00–2:30 Uhr; Black Jack täglich 18:30–2:00 Uhr\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Barbereiche\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Getränke werden in den Spielbereichen serviert; für das leibliche Wohl wird in den rauchfreien Barbereichen gesorgt\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Zutritt\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Eintritt ab 18 Jahren nach Vorlage eines in Deutschland gültigen Lichtbildausweises\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Kleiderordnung\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Gepflegte und angemessene Kleidung; individueller Stil wird geschätzt\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Besucherinformation\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Kontaktformular, Bildergalerie und virtueller Rundgang auf der offiziellen Website\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Spielerschutz\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Informationen zu Selbstsperre, Fremdsperre, Selbsttest, verantwortungsvollem Spiel und Kontakt zum Spielerschutz-Beauftragten\n  <\/td>\n<\/tr>\n\n<tr>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Weitere Standorte\n  <\/td>\n  <td style=\"border:1px solid #ffffff; padding:clamp(5px, 1.5vw, 10px); vertical-align:top; color:#ffffff; background:transparent; word-break:break-word;\">\n    Die Spielbanken Mainz, Trier und Bad Ems werden als drei Standorte genannt\n  <\/td>\n<\/tr>\n<\/table> <\/div> <br> <p>Nach der Tabelle zeigt sich unser Servicegedanke besonders klar: Gäste finden bei uns zentrale Lage, direkte Kontaktwege, tägliche Öffnungszeiten und eine angenehme Struktur für ihren Besuch.<\/p> <br> <p>Unsere rauchfreien Barbereiche und der Getränkeservice in den Spielbereichen runden den Aufenthalt ab. So verbinden wir Spielmomente mit Gastlichkeit und kurzen Wegen innerhalb unseres Hauses.<\/p> <br> <p>Mit Ausweisregelung, Altersgrenze und gepflegter Kleidung schaffen wir einen verlässlichen Rahmen für ein hochwertiges Casino-Erlebnis. Dabei bleibt der individuelle Stil unserer Gäste Teil der Atmosphäre.<\/p> <br> <p>Der verantwortungsvolle Umgang mit dem Spiel gehört bei uns zu einem modernen Casino-Besuch. Mit Selbsttest, Sperrinformationen und persönlichem Kontakt zum Spielerschutz-Beauftragten bieten wir Orientierung direkt über unser Haus.<\/p> <br> <p>Unsere täglichen Öffnungszeiten geben Gästen viel Flexibilität für die Planung. Besonders das Automatenspiel ist bei uns schon ab 11:00 Uhr geöffnet und bietet damit früh am Tag einen direkten Einstieg in die Casino-Unterhaltung.<\/p> <br> <p>Die klar gegliederten Spielzeiten für Roulette, Black Jack und Automatenspiel helfen bei der Vorbereitung des Besuchs. So können Gäste ihren Abend bei uns gezielt auf ihr bevorzugtes Spielangebot abstimmen.<\/p> <br> <p>Unsere Kontaktwege machen Fragen vor dem Besuch unkompliziert. Telefon, E-Mail und Kontaktformular verbinden Gäste direkt mit unserem Haus und unterstützen eine einfache Planung.<\/p> <br> <p>Der virtuelle Rundgang und die Bildergalerie stärken die Vorfreude auf den Besuch. Gäste können sich ein Bild von unserem Ambiente machen und anschließend vor Ort die Casino-Atmosphäre direkt erleben.<\/p> <br> <p>Als Teil der Spielbanken Mainz, Trier und Bad Ems stehen wir für moderne Casino-Unterhaltung in Rheinland-Pfalz. Unser Standort Mainz verbindet zentrale Lage, Spielauswahl, Service und verantwortungsvolle Besucherinformation in einem Haus.<\/p>"
+                    }
+                },
+                "faq": {
+                    "title": "FAQ",
+                    "items": [
+                        {
+                            "title": "Wo befindet sich die Spielbank Mainz?",
+                            "answer": "Unsere Spielbank befindet sich an der Rheinstraße 59 in 55116 Mainz."
+                        },
+                        {
+                            "title": "Welche klassischen Spiele bietet die Spielbank Mainz?",
+                            "answer": "Unsere Gäste erleben Roulette und Black Jack in moderner Atmosphäre."
+                        },
+                        {
+                            "title": "Wie viele Automaten gibt es in der Spielbank Mainz?",
+                            "answer": "In unserem Automatenbereich stehen rund 180 Automaten zur Verfügung."
+                        },
+                        {
+                            "title": "Gibt es Multi-Roulette in der Spielbank Mainz?",
+                            "answer": "Ja, unser Angebot umfasst zwei große Multi-Roulette-Anlagen."
+                        },
+                        {
+                            "title": "Seit wann besteht der heutige Standort der Spielbank Mainz?",
+                            "answer": "Die Spielbank Mainz wurde 2010 am Standort im Domflügel des Hilton Hotels eröffnet."
+                        }
+                    ]
+                }
+            }
+        }
+    ]
+}
